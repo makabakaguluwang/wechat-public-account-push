@@ -18,8 +18,6 @@ export const config = {
     birthdays: [
       {"name": "小馨", "year": "2000", "date": "11-11", "type": 'new'},
 
-    ],
-
 // {{date.DATA}}  
 // 城市：{{city.DATA}}  
 // 天气：{{weather.DATA}}  
