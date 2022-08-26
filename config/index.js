@@ -33,6 +33,3 @@ export const config = {
 // 今天是我们恋爱的第{{love_day.DATA}}天
 // 今天是我们结婚的第{{marry_day.DATA}}天
 // {{birthday_message.DATA}}
-
-// {{note_en.DATA}}  
-// {{note_ch.DATA}}
